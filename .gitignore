@@ -1,0 +1,4 @@
+.python-version
+db.sqlite3
+.vscode
+*.py[cod]
